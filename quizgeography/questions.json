@@ -1,0 +1,151 @@
+[
+  {
+    "question": "Which is the largest ocean in the world?",
+    "options": ["A) Atlantic Ocean", "B) Indian Ocean", "C) Pacific Ocean", "D) Arctic Ocean"],
+    "answer": "c"
+  },
+  
+  {
+    "question": "Which country has the highest number of islands in the world?",
+    "options": ["A) Philippines", "B) Sweden", "C) Indonesia", "D) Canada"],
+    "answer": "b"
+  },
+  
+  {
+    "question": "Which is the longest river in the world?",
+    "options": ["A) Nile River", "B) Amazon River", "C) Yangtze River", "D) Mississippi River"],
+    "answer": "b"
+  },
+
+  {
+    "question": "What is the capital city of Australia?",
+    "options": ["A) Sydney", "B) Melbourne", "C) Canberra", "D) Brisbane"],
+    "answer": "c"
+  },
+  
+  {
+    "question": "Which is the smallest country in the world?",
+    "options": ["A) Monaco", "B) Vatican City", "C) San Marino", "D) Liechtenstein"],
+    "answer": "b"
+  },
+  
+  {
+    "question": "On which continent is the Sahara Desert located?",
+    "options": ["A) Asia", "B) Africa", "C) Oceania", "D) South America"],
+    "answer": "b"
+  },
+  
+  {
+    "question": "Which country is known as the 'Land of the Rising Sun'?",
+    "options": ["A) China", "B) South Korea", "C) Japan", "D) Thailand"],
+    "answer": "c"
+  },
+  
+  {
+    "question": "What is the highest mountain in the world above sea level?",
+    "options": ["A) K2", "B) Mount Everest", "C) Kilimanjaro", "D) Mont Blanc"],
+    "answer": "b"
+  },
+  
+  {
+    "question": "Which of these countries is NOT bordered by the Mediterranean Sea?",
+    "options": ["A) Egypt", "B) Greece", "C) Portugal", "D) Italy"],
+    "answer": "c"
+  },
+  
+  {
+    "question": "Which is the largest country in the world by land area?",
+    "options": ["A) Canada", "B) United States", "C) China", "D) Russia"],
+    "answer": "d"
+  },
+  
+  {
+    "question": "How many time zones does Russia have?",
+    "options": ["A) 3", "B) 5", "C) 9", "D) 11"],
+    "answer": "d"
+  },
+  
+  {
+    "question": "What is the capital city of Canada?",
+    "options": ["A) Toronto", "B) Vancouver", "C) Ottawa", "D) Montreal"],
+    "answer": "c"
+  },
+  
+  {
+    "question": "Which South American country has the longest coastline along the Pacific Ocean?",
+    "options": ["A) Peru", "B) Chile", "C) Colombia", "D) Ecuador"],
+    "answer": "b"
+  },
+    
+  {
+    "question": "Which imaginary line divides the Earth into the Northern and Southern Hemispheres?",
+    "options": ["A) Equator", "B) Greenwich Meridian", "C) Tropic of Cancer", "D) Tropic of Capricorn"],
+    "answer": "a"
+  },
+  
+  {
+    "question": "In which country is most of the Amazon Rainforest located?",
+    "options": ["A) Colombia", "B) Peru", "C) Brazil", "D) Venezuela"],
+    "answer": "c"
+  },
+    
+  {
+    "question": "Which is the driest place on Earth?",
+    "options": ["A) Atacama Desert", "B) Sahara Desert", "C) Gobi Desert", "D) Death Valley"],
+    "answer": "a"
+  },
+
+  {
+    "question": "Which European country is famous for its windmills, tulips, and canals?",
+    "options": ["A) Belgium", "B) Netherlands", "C) Denmark", "D) Switzerland"],
+    "answer": "b"
+  },
+  
+  {
+    "question": "What is the capital city of Turkey?",
+    "options": ["A) Istanbul", "B) Ankara", "C) Antalya", "D) Izmir"],
+    "answer": "b"
+  },
+  
+  {
+    "question": "Which of these countries is an island located in Africa?",
+    "options": ["A) Madagascar", "B) Mozambique", "C) Senegal", "D) Kenya"],
+    "answer": "a"
+  },
+  
+  {
+    "question": "In which country is the famous Stonehenge monument located?",
+    "options": ["A) Ireland", "B) Scotland", "C) England", "D) France"],
+    "answer": "c"
+  },
+
+  {
+    "question": "Which is the largest state in Brazil by territorial size?",
+    "options": ["A) Mato Grosso", "B) Minas Gerais", "C) Amazonas", "D) Pará"],
+    "answer": "c"
+  },
+
+  {
+    "question": "The Strait of Gibraltar separates Europe from which continent?",
+    "options": ["A) Asia", "B) Africa", "C) America", "D) Antarctica"],
+    "answer": "b"
+  },
+
+  {
+    "question": "Which country has three official capitals (Pretoria, Cape Town, and Bloemfontein)?",
+    "options": ["A) South Africa", "B) Nigeria", "C) India", "D) Bolivia"],
+    "answer": "a"
+  },
+    
+  {
+    "question": "Which is the deepest lake in the world?",
+    "options": ["A) Lake Superior", "B) Lake Victoria", "C) Lake Baikal", "D) Caspian Sea"],
+    "answer": "c"
+  },
+
+  {
+    "question": "Which European country is shaped like a boot?",
+    "options": ["A) Spain", "B) Italy", "C) Greece", "D) France"],
+    "answer": "b"
+  }
+]
