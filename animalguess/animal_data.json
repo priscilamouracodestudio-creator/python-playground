@@ -1,0 +1,74 @@
+[
+    [
+        "Does this animal like bananas?",
+        "monkey"
+    ],
+    [
+        "Is it orange and does it have black stripes?",
+        "tiger"
+    ],
+    [
+        "Is it known as the \"King of the Jungle\"?",
+        "lion"
+    ],
+    [
+        "Does it have a long trunk and large ears?",
+        "elephant"
+    ],
+    [
+        "Is it the tallest land animal in the world?",
+        "giraffe"
+    ],
+    [
+        "Is it a slow-moving animal that hangs upside down from trees?",
+        "sloth"
+    ],
+    [
+        "Is it a bird that can mimic human speech?",
+        "parrot"
+    ],
+    [
+        "Is it a flightless bird that lives in cold environments?",
+        "penguin"
+    ],
+    [
+        "Is it a nocturnal bird known for its wisdom?",
+        "owl"
+    ],
+    [
+        "Is it a mammal that can fly and uses echolocation?",
+        "bat"
+    ],
+    [
+        "Is it the largest mammal on Earth?",
+        "blue whale"
+    ],
+    [
+        "Is it a highly intelligent marine mammal known for its playful behavior?",
+        "dolphin"
+    ],
+    [
+        "Does it have eight arms and can release ink?",
+        "octopus"
+    ],
+    [
+        "Is it a deadly ocean predator with multiple rows of teeth?",
+        "shark"
+    ],
+    [
+        "Is it a reptile with a hard shell that protects its body?",
+        "turtle"
+    ],
+    [
+        "Is it an amphibian known for jumping and croaking?",
+        "frog"
+    ],
+    [
+        "Is it a hardworking insect that lives in colonies and makes honey?",
+        "bee"
+    ],
+    [
+        "Is it a common domestic pet that purrs and likes to catch mice?",
+        "cat"
+    ]
+]
