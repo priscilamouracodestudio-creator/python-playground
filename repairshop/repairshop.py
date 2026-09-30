@@ -1,4 +1,3 @@
-# Commit forçado do banco de dados
 import sqlite3
 
 
